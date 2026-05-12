@@ -149,14 +149,6 @@ Virtual trading simulator with portfolio management and market analysis.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhxbuilds&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhxbuilds&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhxbuilds&theme=react-dark&hide_border=true"/>
-
 </p>
 
 ---
@@ -185,4 +177,5 @@ Virtual trading simulator with portfolio management and market analysis.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </p>
+
 
