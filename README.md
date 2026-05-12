@@ -190,4 +190,4 @@ Virtual trading simulator with portfolio management and market analysis.
 
 </p>
 
-<h3 align="center">✨ Made with ❤️ by Rishabh Mahadik ✨</h3>
+
